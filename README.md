@@ -3,6 +3,9 @@
 I recently completed a front-end clone project inspired by the award-winning website, Ochi. Leveraging Vite and React, along with the impressive capabilities of Locomotive.js for smooth scrolling, Framer Motion for animations, and Tailwind CSS for styling, I recreated the visually stunning Ochi site. While the clone is currently desktop-oriented and not yet responsive for mobile devices, this project provided me with invaluable hands-on experience with these cutting-edge technologies.
 
 ## Demo Video
+ Click below image to watch the demo video-
+
+-----
 [![Demovideo](https://img.youtube.com/vi/gVwHiASwIew/0.jpg)](https://www.youtube.com/watch?v=gVwHiASwIew)
 
 ## Key Features
