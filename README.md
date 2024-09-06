@@ -5,7 +5,6 @@ I recently completed a front-end clone project inspired by the award-winning web
 ## Demo Video
  Click below image to watch the demo video-
 
------
 [![Demovideo](https://img.youtube.com/vi/gVwHiASwIew/0.jpg)](https://www.youtube.com/watch?v=gVwHiASwIew)
 
 ## Key Features
